@@ -1,0 +1,21 @@
+{
+  "name": "Jibas Finance v3",
+  "short_name": "Mobile-V3",
+  "description": "Aplikasi Jibas Finance",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f0fdf4",
+  "theme_color": "#198754",
+  "icons": [
+    {
+      "src": "hidis.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "hidis.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
